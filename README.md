@@ -1,5 +1,5 @@
 - Project Name  : Signal Transmit and Receive using Frequency Modulator and PLL (Phase-Locked Loop) Demodulator.
-- Weblink       : https://sites.google.com/view/mamunar/project/fm-modulation
+- Weblink       : https://sites.google.com/view/mamunar/projects/fm-modulation
 - Process_1:Install MATLAB on your system and open FM.exe file
 - Process_2:Open communication_exported.m file using MATLAB
 - communication.mlapp is the GUI file
